@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋 I'm Rakshitha
 
-<!--
-**Rakshitha-JR/Rakshitha-JR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE-AIML Student  
+🤖 Aspiring AI/ML Engineer  
+💻 Exploring Python, Machine Learning, and Data Science  
+🚀 Passionate about building intelligent solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Python
+- Machine Learning
+- Data Science
+- Git & GitHub
+
+---
+
+## Currently Learning
+- Python for AI
+- Machine Learning
+- Data Science
+
+---
+
+## 🎯 Goals
+✔ Build AI/ML Projects  
+✔ Contribute to Open Source  
+✔ Become an AI Engineer

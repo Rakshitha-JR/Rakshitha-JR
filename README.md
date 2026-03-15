@@ -9,6 +9,7 @@
 
 ## 🛠️ Tech Stack
 - Python
+- HTML,CSS
 - Machine Learning
 - Data Science
 - Git & GitHub
